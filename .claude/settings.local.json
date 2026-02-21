@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest skiporbuy-web --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm)",
+      "Bash(node -e:*)",
+      "Bash(for f in en.json es.json fr.json de.json zh.json zh-HK.json ja.json it.json)",
+      "Bash(do echo \"=== $f ===\")",
+      "Bash(done)"
+    ]
+  }
+}
