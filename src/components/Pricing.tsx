@@ -56,9 +56,11 @@ export default function Pricing({ dict }: { dict: Dictionary }) {
 
                 <div className="mt-8 flex items-baseline justify-center gap-2">
                   <span className="font-heading text-6xl font-extrabold text-white">
-                    £2.49
+                    {dict.pricing.price}
                   </span>
-                  <span className="text-lg text-slate-400">/ $2.99</span>
+                  {dict.pricing.priceAlt && (
+                    <span className="text-lg text-slate-400">{dict.pricing.priceAlt}</span>
+                  )}
                 </div>
 
                 <p className="mt-2 text-sm text-slate-500">
