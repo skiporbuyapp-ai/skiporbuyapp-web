@@ -95,7 +95,25 @@
   },
   "footer": {
     "privacyPolicy": "Privacy Policy",
+    "contact": "Contact",
     "copyright": "All rights reserved."
+  },
+  "contact": {
+    "title": "Get in",
+    "titleAccent": "touch",
+    "subtitle": "Have a question, suggestion, or just want to say hello? We'd love to hear from you.",
+    "backToHome": "Back to home",
+    "emailLabel": "Email us",
+    "emailDesc": "For support, feedback, or general enquiries.",
+    "responseTime": "We typically respond within 24-48 hours.",
+    "nameLabel": "Your name",
+    "emailInputLabel": "Your email",
+    "messageLabel": "Your message",
+    "send": "Send Message",
+    "sent": "Message sent!",
+    "sentDesc": "Thanks for reaching out. We'll get back to you soon.",
+    "followTitle": "Other ways to reach us",
+    "followDesc": "You can also find us on the App Store and Google Play."
   },
   "cookie": {
     "message": "We use anonymous analytics to improve the app experience. No personal data is collected.",

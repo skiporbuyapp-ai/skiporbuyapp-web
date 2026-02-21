@@ -95,7 +95,25 @@
   },
   "footer": {
     "privacyPolicy": "Datenschutzrichtlinie",
+    "contact": "Kontakt",
     "copyright": "Alle Rechte vorbehalten."
+  },
+  "contact": {
+    "title": "Nimm",
+    "titleAccent": "Kontakt auf",
+    "subtitle": "Hast du eine Frage, einen Vorschlag oder möchtest einfach Hallo sagen? Wir freuen uns von dir zu hören.",
+    "backToHome": "Zurück zur Startseite",
+    "emailLabel": "Schreib uns",
+    "emailDesc": "Für Support, Feedback oder allgemeine Anfragen.",
+    "responseTime": "Wir antworten in der Regel innerhalb von 24 bis 48 Stunden.",
+    "nameLabel": "Dein Name",
+    "emailInputLabel": "Deine E-Mail-Adresse",
+    "messageLabel": "Deine Nachricht",
+    "send": "Nachricht senden",
+    "sent": "Nachricht gesendet!",
+    "sentDesc": "Danke, dass du dich gemeldet hast. Wir werden uns bald bei dir melden.",
+    "followTitle": "Weitere Wege, uns zu erreichen",
+    "followDesc": "Du findest uns auch im App Store und bei Google Play."
   },
   "cookie": {
     "message": "Wir verwenden anonyme Analysen, um das App-Erlebnis zu verbessern. Es werden keine personenbezogenen Daten erfasst.",

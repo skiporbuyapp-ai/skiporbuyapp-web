@@ -95,7 +95,25 @@
   },
   "footer": {
     "privacyPolicy": "Informativa sulla Privacy",
+    "contact": "Contatti",
     "copyright": "Tutti i diritti riservati."
+  },
+  "contact": {
+    "title": "Mettiti in",
+    "titleAccent": "contatto",
+    "subtitle": "Hai una domanda, un suggerimento o vuoi semplicemente salutarci? Ci farebbe piacere sentirti.",
+    "backToHome": "Torna alla home",
+    "emailLabel": "Scrivici",
+    "emailDesc": "Per assistenza, feedback o domande generali.",
+    "responseTime": "Di solito rispondiamo entro 24-48 ore.",
+    "nameLabel": "Il tuo nome",
+    "emailInputLabel": "La tua email",
+    "messageLabel": "Il tuo messaggio",
+    "send": "Invia messaggio",
+    "sent": "Messaggio inviato!",
+    "sentDesc": "Grazie per averci contattato. Ti risponderemo presto.",
+    "followTitle": "Altri modi per raggiungerci",
+    "followDesc": "Puoi trovarci anche sull'App Store e su Google Play."
   },
   "cookie": {
     "message": "Utilizziamo analisi anonime per migliorare l'esperienza dell'app. Non vengono raccolti dati personali.",

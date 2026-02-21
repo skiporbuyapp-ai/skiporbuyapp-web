@@ -95,7 +95,25 @@
   },
   "footer": {
     "privacyPolicy": "隐私政策",
+    "contact": "联系我们",
     "copyright": "保留所有权利。"
+  },
+  "contact": {
+    "title": "与我们",
+    "titleAccent": "取得联系",
+    "subtitle": "有问题、建议，或者只是想打个招呼？我们很乐意听到您的声音。",
+    "backToHome": "返回首页",
+    "emailLabel": "发送邮件",
+    "emailDesc": "欢迎就支持、反馈或一般咨询与我们联系。",
+    "responseTime": "我们通常会在24至48小时内回复。",
+    "nameLabel": "您的姓名",
+    "emailInputLabel": "您的电子邮箱",
+    "messageLabel": "您的留言",
+    "send": "发送消息",
+    "sent": "消息已发送！",
+    "sentDesc": "感谢您的联系，我们将尽快回复您。",
+    "followTitle": "其他联系方式",
+    "followDesc": "您也可以在 App Store 和 Google Play 上找到我们。"
   },
   "cookie": {
     "message": "我们使用匿名分析数据来改善应用体验，不收集任何个人信息。",

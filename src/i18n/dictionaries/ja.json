@@ -95,7 +95,25 @@
   },
   "footer": {
     "privacyPolicy": "プライバシーポリシー",
+    "contact": "お問い合わせ",
     "copyright": "All rights reserved."
+  },
+  "contact": {
+    "title": "お気軽に",
+    "titleAccent": "ご連絡ください",
+    "subtitle": "ご質問、ご提案、またはただご挨拶したいだけでも、ぜひお聞かせください。",
+    "backToHome": "ホームに戻る",
+    "emailLabel": "メールを送る",
+    "emailDesc": "サポート、フィードバック、またはその他のお問い合わせはこちら。",
+    "responseTime": "通常、24〜48時間以内にご返信いたします。",
+    "nameLabel": "お名前",
+    "emailInputLabel": "メールアドレス",
+    "messageLabel": "メッセージ",
+    "send": "送信する",
+    "sent": "送信しました！",
+    "sentDesc": "ご連絡ありがとうございます。近日中にご返信いたします。",
+    "followTitle": "その他のお問い合わせ方法",
+    "followDesc": "App Store や Google Play でも私たちを見つけることができます。"
   },
   "cookie": {
     "message": "アプリ体験の向上のため、匿名の分析情報を使用しています。個人データは収集されません。",

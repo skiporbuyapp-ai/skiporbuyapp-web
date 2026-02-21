@@ -95,7 +95,25 @@
   },
   "footer": {
     "privacyPolicy": "私隱政策",
+    "contact": "聯絡我們",
     "copyright": "版權所有。"
+  },
+  "contact": {
+    "title": "與我們",
+    "titleAccent": "聯絡",
+    "subtitle": "有問題、建議，或者只是想打個招呼？我們很樂意聽到你的聲音。",
+    "backToHome": "返回主頁",
+    "emailLabel": "發送電郵",
+    "emailDesc": "歡迎就支援、意見或一般查詢與我們聯絡。",
+    "responseTime": "我們通常會在24至48小時內回覆。",
+    "nameLabel": "你的姓名",
+    "emailInputLabel": "你的電郵地址",
+    "messageLabel": "你的留言",
+    "send": "發送訊息",
+    "sent": "訊息已發送！",
+    "sentDesc": "感謝你的聯絡，我們將盡快回覆你。",
+    "followTitle": "其他聯絡方式",
+    "followDesc": "你也可以在 App Store 和 Google Play 上找到我們。"
   },
   "cookie": {
     "message": "我們使用匿名分析數據以改善應用體驗，不會收集任何個人資料。",
